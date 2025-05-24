@@ -1,7 +1,9 @@
 # My First Three.js App
 
+This app is displaying my name animation.
+
 ## Setup
-Download [Node.js](https://nodejs.org/en/download/).
+Download [Node.js](https://nodejs.org/en).
 Run this followed commands:
 
 ``` bash
