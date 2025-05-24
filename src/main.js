@@ -46,7 +46,7 @@ fontLoader.load(
         const text = new THREE.Mesh(textGeometry, material)
         scene.add(text)
 
-        // Donust aka Torus 
+        // Donut aka Torus 
         const donutGeometry = new THREE.TorusGeometry(0.3, 0.2, 32, 64);
 
         for (let i = 0; i < 100; i++) {
